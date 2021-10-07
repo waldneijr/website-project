@@ -1,2 +1,2 @@
 # website-project
- Website project created in Git and GitHub class
+ Webpage with my first HTML code
